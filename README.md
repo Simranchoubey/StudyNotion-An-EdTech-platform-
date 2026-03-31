@@ -1,5 +1,9 @@
  # Studynotion Online Education Platform
-**Live Demo**: {(https://studynotion-edtech-project.vercel.app/)}
+
+ 
+**Live Demo**: {https://studynotion-edtech-project.vercel.app/}
+
+
 ![Main Page](images/mainpage.png)
 
 ## Project Description
