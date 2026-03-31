@@ -1,5 +1,5 @@
  # Studynotion Online Education Platform
-
+**Live Demo**: {https://simranchoubey.github.io/StudyNotion-An-EdTech-platform-/}
 ![Main Page](images/mainpage.png)
 
 ## Project Description
